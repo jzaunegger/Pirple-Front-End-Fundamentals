@@ -4,4 +4,4 @@ For the Pirple Front End Fundamentals course, I have made a basic page about HP 
 
 A  Screen Shot of my Reddit Post wijl.
 
-![Screenshot] (Screenshot.png)
+![Screenshot] (https://github.com/jzaunegger/Pirple-Front-End-Fundamentals/tree/main/Projects/Project-1/Screenshot.png)
