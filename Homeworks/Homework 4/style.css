@@ -1,0 +1,22 @@
+body{
+    background-color: #cecece;
+}
+
+p, ul{
+    font-size: 14pt;
+}
+
+h1{
+    padding: 10pt;
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+h2{
+    padding: 5pt;
+}
+
+img{
+    width: 20%;
+    height: 20%;
+}
