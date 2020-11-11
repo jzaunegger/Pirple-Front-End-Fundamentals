@@ -1,0 +1,54 @@
+/*
+* A great place for learning about CSS is w3schools.com, they have a ton of
+* information about HTML, CSS, and all of web programming related things.
+*
+* Link: https://www.w3schools.com/css/default.asp
+*/
+
+
+body{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    width: 80%;
+    margin: auto;
+}
+
+body > p > span{
+    font-style: italic;
+}
+
+.dish-name {
+    font-weight: bold;
+    font-style: normal;
+    color: red;
+}
+
+body > p > span:last-child {
+    text-decoration: underline;
+}
+
+.page-title{
+    text-align: center;
+}
+
+.cust-bullet{
+    list-style-type: none;
+    padding: 0px;
+    margin: 0px;
+}
+
+.bullet-icon{
+    list-style-image: url('Images/chev-right.png');
+}
+
+.roman-num{
+    list-style-type: upper-roman;
+}
+
+.food-img{
+    width: 250px;
+    height: 250px;
+}
+
+.link-item{
+    color: black;
+}
